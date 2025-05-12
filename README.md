@@ -1,25 +1,25 @@
-## 👨‍💻 Томашков Евгений  — DevOps, LLM интегратор 
+## 👨‍💻 Evgeny Tomashkov — DevOps Engineer & LLM Integrator
 
 > **Ordo ab Chao**
 
 **🛠️ Stack:**
-- 🐧 Unix: Debian / Ubuntu / systemd / cron / journalctl
-- 🐍 Python, bash: автоматизация, скрипты, парсинг, бэкапы
-- 🌐 Apache2 / Nginx: настройка, SSL, reverse proxy
-- 📦 Docker: разработка и продакшн-окружения
-- 🧰 Ansible: автоконфигурация серверов
-- 🛢 PostgreSQL / SQLite: REST API, боты, метрики
-- ☁️ Cloud VDS: настройка, деплой, мониторинг
-- 📈 Prometheus + Grafana: метрики, алерты, SaaS-дашборды
-- 🤖 OpenAI API, Telegram API: боты, автогенерация, интеграции
+- 🐧 Unix: Debian / Ubuntu / systemd / cron / journalctl  
+- 🐍 Python, Bash: automation, scripting, parsing, backups  
+- 🌐 Apache2 / Nginx: config, SSL, reverse proxy  
+- 📦 Docker: development & production environments  
+- 🧰 Ansible: infrastructure as code  
+- 🛢 PostgreSQL / SQLite: REST APIs, bots, metrics  
+- ☁️ Cloud VDS: deployment, monitoring, optimization  
+- 📈 Prometheus + Grafana: metrics, alerts, SaaS dashboards  
+- 🤖 OpenAI API, Telegram API: bots, LLM integration, autogen pipelines
 
 ---
 
 **🔧 What I do:**
-- Разработка Telegram-ботов любой сложности
-- Интеграция GPT  
-- Автоматизация инфраструктуры и CI/CD
-- Создание контейнерных решений под ключ
+- Build Telegram bots of any complexity  
+- Integrate GPT into real-world workflows  
+- Automate infrastructure & CI/CD pipelines  
+- Deliver containerized solutions from zero to prod
 
 ---
 
