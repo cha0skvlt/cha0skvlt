@@ -1,28 +1,43 @@
 ## 👨‍💻 Evgeny Tomashkov — DevOps Engineer & LLM Integrator
 
-> **Ordo ab Chao**
-
-**🛠️ Stack:**
-- 🐧 Unix: Debian / Ubuntu / systemd / cron / journalctl  
-- 🐍 Python, Bash: automation, scripting, parsing, backups  
-- 🌐 Apache2 / Nginx: config, SSL, reverse proxy  
-- 📦 Docker: development & production environments  
-- 🧰 Ansible: infrastructure as code  
-- 🛢 PostgreSQL / SQLite: REST APIs, bots, metrics  
-- ☁️ Cloud VDS: deployment, monitoring, optimization  
-- 📈 Prometheus + Grafana: metrics, alerts, SaaS dashboards  
-- 🤖 OpenAI API, Telegram API: bots, LLM integration, autogen pipelines
+> 📐 **Ordo ab Chao** 
 
 ---
 
-**🔧 What I do:**
+I specialize in building **automated, production-ready systems** using modern DevOps and AI tools.  
+My focus is on **declarative infrastructure**, **GPT-powered bots**, and **hands-off deployments**.
+
+---
+
+### 💡 Key Principles
+- Infrastructure as Code — always reproducible  
+- Minimal manual effort, maximal automation  
+- Systems must explain themselves (Markdown, YAML, logs)  
+- Bots should be *alive* — with structure, memory, and identity
+
+---
+
+### 🛠️ Tech Stack
+- 🔧 15 years in Unix/Linux: Debian, Ubuntu, systemd, cron, automation  
+- 🐍 Python, Bash: scripting, parsing, backup automation  
+- 🌐 Apache2 / Nginx: reverse proxy, SSL termination  
+- 📦 Docker: development & production containers  
+- 🧰 Ansible: infrastructure provisioning & orchestration  
+- 🛢 PostgreSQL / SQLite: REST APIs, bot backends, metrics  
+- ☁️ Cloud VDS: deployment, scaling, monitoring  
+- 📈 Prometheus + Grafana: metrics, alerts, dashboards  
+- 🤖 OpenAI API, Telegram API: LLMs, bots, auto-generation pipelines
+
+---
+
+### 🔧 What I Do
 - Build Telegram bots of any complexity  
 - Integrate GPT into real-world workflows  
 - Automate infrastructure & CI/CD pipelines  
-- Deliver containerized solutions from zero to prod
+- Deliver containerized systems from zero to production
 
 ---
 
-**📫 Contact:**
-- Telegram: [@cha0skvlt](https://t.me/cha0skvlt)
+### 📫 Contact
+- Telegram: [@cha0skvlt](https://t.me/cha0skvlt)  
 - GitHub: [github.com/cha0skvlt](https://github.com/cha0skvlt)
