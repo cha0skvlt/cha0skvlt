@@ -24,7 +24,7 @@ My focus is on **declarative infrastructure**, **GPT-powered bots**, and **hands
 - 📦 Docker: development & production containers  
 - 🧰 Ansible: infrastructure provisioning & orchestration  
 - 🛢 PostgreSQL / SQLite: REST APIs, bot backends, metrics  
-- ☁️ Cloud VDS: deployment, scaling, monitoring  
+- ☁️ Cloud VDS: Terraform, deployment, scaling, monitoring  
 - 📈 Prometheus + Grafana: metrics, alerts, dashboards  
 - 🤖 OpenAI API, Telegram API: LLMs, bots, auto-generation pipelines
 
