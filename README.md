@@ -19,12 +19,12 @@ My focus is on **declarative infrastructure**, **GPT-powered bots**, and **hands
 
 ### 🛠️ Tech Stack
 - 15 years in Unix: Debian, Kali, FreeBSD 😈
-- Python, Bash: scripting, parsing, backup automation  
+- Python, Bash: scripting, parsing, backup automation
+- Clouds: Terraform, deployment, scaling, monitoring  
+- Ansible: infrastructure provisioning & orchestration   
 - Apache2 / Nginx: reverse proxy, SSL termination  
 - Docker: development & production containers  
-- Ansible: infrastructure provisioning & orchestration  
 - PostgreSQL / SQLite: REST APIs, bot backends, metrics  
-- Cloud VDS: Terraform, deployment, scaling, monitoring  
 - Zabbix, Prometheus + Grafana: metrics, alerts, dashboards  
 - OpenAI API, Telegram API: LLMs, bots, auto-generation pipelines
 
