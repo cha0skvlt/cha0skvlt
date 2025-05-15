@@ -18,7 +18,7 @@ My focus is on **declarative infrastructure**, **GPT-powered bots**, and **hands
 ---
 
 ### 🛠️ Tech Stack
-- 15 years in Unix/Linux: Debian, Ubuntu, systemd, cron, automation  
+- 15 years in Unix: Debian, Kali, FreeBDS 
 - Python, Bash: scripting, parsing, backup automation  
 - Apache2 / Nginx: reverse proxy, SSL termination  
 - Docker: development & production containers  
