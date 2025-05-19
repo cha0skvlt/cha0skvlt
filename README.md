@@ -1,4 +1,4 @@
-## 👨‍💻 Evgeny Tomashkov — DevOps Engineer & LLM Integrator
+## 👨‍💻 Evgeny  — DevOps Engineer & LLM Integrator
 
 > 📐 **Ordo ab Chao** 
 
