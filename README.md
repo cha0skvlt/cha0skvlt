@@ -1,4 +1,4 @@
-## 👨‍💻 Evgeny  — DevOps Engineer & LLM Integrator
+## DevOps Engineer & LLM Integrator
 
 > 📐 **Ordo ab Chao** 
 
