@@ -45,7 +45,7 @@ Debian, FreeBSD, Kali — from servers to edge devices
 
 ### 🔧 What I Do
 - Build Telegram bots of any complexity  
-- Integrate GPT into real-world workflows  
+- Integrate AI into real-world workflows  
 - Automate infrastructure & CI/CD pipelines  
 - Deliver containerized systems from zero to production
 
