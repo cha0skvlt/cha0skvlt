@@ -24,8 +24,7 @@ Debian, FreeBSD, Kali — from servers to edge devices
 ---
 
 ## 🛠️ Tech Stack
-
-[![Chaos Engineer](https://img.shields.io/badge/Chaos--Engineer-%23e63946?style=for-the-badge&logoColor=white)](https://principlesofchaos.org/)
+[![Chaos Engineer](https://img.shields.io/badge/Chaos--Engineer-%23e63946?style=flat-square&logoColor=white)](https://principlesofchaos.org/)
 ![Unix](https://img.shields.io/badge/Unix-Debian%20%7C%20Kali%20%7C%20FreeBSD-333?logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-automation-blue?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-scripts-4EAA25?logo=gnubash&logoColor=white)
