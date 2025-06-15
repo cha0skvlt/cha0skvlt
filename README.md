@@ -7,6 +7,9 @@
 I specialize in building **automated, production-ready systems** using modern DevOps and AI tools.  
 My focus is on **declarative infrastructure**, **GPT-powered bots**, and **hands-off deployments**.
 
+👨‍💻 15+ years of real-world Unix experience  
+Debian, FreeBSD, Kali — from servers to edge devices  
+
 ---
 
 ### 💡 Key Principles
