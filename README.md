@@ -17,16 +17,23 @@ My focus is on **declarative infrastructure**, **GPT-powered bots**, and **hands
 
 ---
 
-### 🛠️ Tech Stack
-- 15 years in Unix: Debian, Kali, FreeBSD 😈
-- Python, Bash: scripting, parsing, backup automation
-- Clouds: Terraform, deployment, scaling, monitoring  
-- Ansible: infrastructure provisioning & orchestration   
-- Apache2 / Nginx: reverse proxy, SSL termination  
-- Docker: development & production containers  
-- PostgreSQL / SQLite: REST APIs, bot backends, metrics  
-- Zabbix, Prometheus + Grafana: metrics, alerts, dashboards  
-- OpenAI API, Telegram API: LLMs, bots, auto-generation pipelines
+## 🛠️ Tech Stack
+
+![Unix](https://img.shields.io/badge/Unix-Debian%20%7C%20Kali%20%7C%20FreeBSD-333?logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-automation-blue?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-scripts-4EAA25?logo=gnubash&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-provisioning-black?logo=ansible)
+![Apache](https://img.shields.io/badge/Apache2-reverse--proxy-d22128?logo=apache)
+![Nginx](https://img.shields.io/badge/Nginx-SSL--termination-269539?logo=nginx)
+![Docker](https://img.shields.io/badge/Docker-containers-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-databases-336791?logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-lightweight%20db-003B57?logo=sqlite)
+![Zabbix](https://img.shields.io/badge/Zabbix-monitoring-a82c2c?logo=zabbix)
+![Grafana](https://img.shields.io/badge/Grafana-dashboards-F46800?logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-alerts-orange?logo=prometheus)
+![OpenAI](https://img.shields.io/badge/OpenAI-LLMs-412991?logo=openai)
+![Telegram](https://img.shields.io/badge/Telegram-bots-26A5E4?logo=telegram)
 
 ---
 
