@@ -27,7 +27,7 @@ Debian, FreeBSD, Kali — from servers to edge devices
 ![Python](https://img.shields.io/badge/Python-automation-blue?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-scripts-4EAA25?logo=gnubash&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-provisioning-black?logo=ansible)
+![Ansible](https://img.shields.io/badge/Ansible-IaC-E12C2C?logo=ansible&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache2-reverse--proxy-d22128?logo=apache)
 ![Nginx](https://img.shields.io/badge/Nginx-SSL--termination-269539?logo=nginx)
 ![Docker](https://img.shields.io/badge/Docker-containers-2496ED?logo=docker&logoColor=white)
