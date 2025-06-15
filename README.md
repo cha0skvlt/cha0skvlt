@@ -1,6 +1,6 @@
 ## DevOps Engineer & LLM Integrator
 
-> 📐 **Ordo ab Chao** 
+> 📐 **Ordo ab Cha0** 
 
 ---
 
