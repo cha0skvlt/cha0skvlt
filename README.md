@@ -7,7 +7,7 @@ I design **automated, production-grade infrastructure** and build **LLM-driven s
 
 My focus is on **declarative architecture**, **AI-assisted workflows**, and **minimizing manual intervention**.
 
-👨‍💻 **15 years in Unix-based environments** — from FreeBSD and Debian to Kali  
+**15 years in Unix-based environments** — from FreeBSD and Debian to Kali  
 
 ---
 
