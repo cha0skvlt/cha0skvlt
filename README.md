@@ -17,6 +17,7 @@ My focus is on **declarative architecture**, **AI-assisted workflows**, and **mi
 ![Bash](https://img.shields.io/badge/Bash-scripts-4EAA25?logo=gnubash&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-lightweight--use-E12C2C?logo=ansible)
 ![Docker](https://img.shields.io/badge/Docker-containers-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-reverse--proxy-009639?logo=nginx&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-lightweight%20db-003B57?logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-core%20db-336791?logo=postgresql)
 ![Telegram](https://img.shields.io/badge/Telegram-bots-26A5E4?logo=telegram)
