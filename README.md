@@ -1,4 +1,4 @@
-## Staff DevOps Engineer & LLM Integrator
+## DevOps Engineer & LLM Integrator
 
 > 📐 **Ordo ab Cha0** 
 
