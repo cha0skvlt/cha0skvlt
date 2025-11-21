@@ -1,4 +1,4 @@
-## DevOps Engineer & LLM Integrator
+## DevOps Engineer & Vibe coder
 
 > 📐 **Ordo ab Cha0** 
 
