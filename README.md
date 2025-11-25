@@ -1,4 +1,4 @@
-## DevOps Engineer & Vibe coder
+## DevOps engineer & vibe coder
 
 > 📐 **Ordo ab Cha0** 
 
