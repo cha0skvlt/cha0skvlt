@@ -51,6 +51,6 @@ I provide **complex business digitalization** for those who need results, not ju
 ## 📡 Signal / Contact
 
 *   **Telegram:** [@cha0skvlt](https://t.me/cha0skvlt)
-*   **Website:** [cha0slvt.xyz](https://cha0sklvt.xyz) — *Check out my HTML5 Artifact game*
+*   **Website:** [cha0sklvt.xyz](https://cha0sklvt.xyz) — *Check out my HTML5 Artifact game*
 *   **GitHub:** [github.com/cha0skvlt](https://github.com/cha0skvlt)
 
