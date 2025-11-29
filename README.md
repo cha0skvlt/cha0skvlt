@@ -51,9 +51,6 @@ I provide **complex business digitalization** for those who need results, not ju
 ## 📡 Signal / Contact
 
 *   **Telegram:** [@cha0skvlt](https://t.me/cha0skvlt)
-*   **Website & Artifacts:** [cha0slvt.xyz](https://cha0slvt.xyz) — *Check out my HTML5 Artifact game*
+*   **Website:** [cha0slvt.xyz](https://cha0sklvt.xyz) — *Check out my HTML5 Artifact game*
 *   **GitHub:** [github.com/cha0skvlt](https://github.com/cha0skvlt)
 
-<div align="center">
-  <i>"I design systems that minimize manual intervention."</i>
-</div>
