@@ -1,39 +1,59 @@
-## DevOps engineer & vibe coder
+# 💀 DevOps Engineer, AI Researcher & Vibe Coder
 
-> 📐 **Ordo ab Cha0** 
-
----
-I design **automated, production-grade infrastructure** and build **LLM-driven systems** optimized for clarity and low operational overhead.  
-
-My focus is on **declarative architecture**, **AI-assisted workflows**, and **minimizing manual intervention**.
-
-**15 years in Unix-based environments** — from FreeBSD to Debian & Kali  
+> 📐 **Ordo ab Cha0s**
 
 ---
 
-## 🛠️ Stack Highlights
-[![Chaos Engineer](https://img.shields.io/badge/Chaos--Engineer-%23e63946?style=flat-square&logoColor=white)](https://principlesofchaos.org/)
-![Unix](https://img.shields.io/badge/Unix-Debian%20%7C%20Kali%20%7C%20FreeBSD-333?logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-automation-blue?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-scripts-4EAA25?logo=gnubash&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-lightweight--use-E12C2C?logo=ansible)
-![Docker](https://img.shields.io/badge/Docker-containers-2496ED?logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-web-009639?logo=nginx&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-lightweight%20db-003B57?logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-core%20db-336791?logo=postgresql)
-![Telegram](https://img.shields.io/badge/Telegram-bots-26A5E4?logo=telegram)
-![OpenAI](https://img.shields.io/badge/OpenAI-LLMs-412991?logo=openai)
+### 🧠 The Synergy of Experience & Innovation
+I bridge the gap between **Old School Unix reliability** and **State-of-the-Art AI**.
+With **15 years of experience** ranging from FreeBSD basements to high-load Debian clusters, I now focus on **AI-driven infrastructure**, **LLM research**, and **Indie Game Development**.
+
+My philosophy is **Vibe Coding**: Using AI as a force multiplier to deliver complex, production-grade systems at record speed.
 
 ---
 
-### 🔧 What I Do
-- Develop and deploy Telegram bots (LLM-based, task-oriented, fully automated)
-- Automate infrastructure using minimal, reproducible toolchains
-- Deliver containerized services with declarative configurations
-- Integrate AI models into production workflows for speed and consistency
+## 🛠️ Tech Stack & Arsenal
+
+### ☁️ DevOps & Infrastructure
+![Linux](https://img.shields.io/badge/Unix-Debian%20%7C%20Kali%20%7C%20FreeBSD-333?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-High%20Performance-009639?style=flat-square&logo=nginx&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-IaC-E12C2C?style=flat-square&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Shell%20Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### 🤖 AI & Neural Networks
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-d97757?style=flat-square&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Research-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🎮 Indie GameDev & Bots
+![HTML5](https://img.shields.io/badge/HTML5-GameDev-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Lightweight-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
-### 📫 Contact
-- Telegram: [@cha0skvlt](https://t.me/cha0skvlt)  
-- GitHub: [github.com/cha0skvlt](https://github.com/cha0skvlt)
+## 💼 Services & Expertise
+
+I provide **complex business digitalization** for those who need results, not just code.
+
+*   **🚀 Digital Transformation:** Turning chaotic business processes into automated, self-sustaining digital systems.
+*   **🤖 AI Integration:** Custom LLM agents, neural networks, and automated workflows.
+*   **🔧 DevOps Consulting:** Building declarative, unbreaking infrastructure.
+*   **🕹️ Interactive Dev:** HTML5 games and engaging Telegram bots.
+
+> Open for interesting projects and consulting.
+
+---
+
+## 📡 Signal / Contact
+
+*   **Telegram:** [@cha0skvlt](https://t.me/cha0skvlt)
+*   **Website & Artifacts:** [cha0slvt.xyz](https://cha0slvt.xyz) — *Check out my HTML5 Artifact game*
+*   **GitHub:** [github.com/cha0skvlt](https://github.com/cha0skvlt)
+
+<div align="center">
+  <i>"I design systems that minimize manual intervention."</i>
+</div>
