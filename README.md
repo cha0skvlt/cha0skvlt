@@ -2,15 +2,6 @@
 
 > 📐 **Ordo ab Cha0s**
 
----
-
-### 🧠 The Synergy of Experience & Innovation
-I bridge the gap between **Old School Unix reliability** and **State-of-the-Art AI**.
-With **15 years of experience** ranging from FreeBSD basements to high-load Debian clusters, I now focus on **AI-driven infrastructure**, **LLM research**, and **Indie Game Development**.
-
-My philosophy is **Vibe Coding**: Using AI as a force multiplier to deliver complex, production-grade systems at record speed.
-
----
 
 ## 🛠️ Tech Stack & Arsenal
 
