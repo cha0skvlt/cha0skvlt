@@ -1,47 +1,72 @@
-# 💀 DevOps Engineer, AI Researcher & Vibe Coder
+# 💀 Senior DevOps & AI Engineer
 
-> 📐 **Ordo ab Cha0s**
+> *Ordo ab Cha0s* — 15 years turning infrastructure chaos into self-sustaining systems.
 
-
-## 🛠️ Tech Stack & Arsenal
-
-### ☁️ DevOps & Infrastructure
-![Linux](https://img.shields.io/badge/Unix-Debian%20%7C%20Kali%20%7C%20FreeBSD-333?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-High%20Performance-009639?style=flat-square&logo=nginx&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-IaC-E12C2C?style=flat-square&logo=ansible&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Shell%20Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### 🤖 AI & Neural Networks
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-d97757?style=flat-square&logo=anthropic&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Research-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### 🎮 Indie GameDev & Bots
-![HTML5](https://img.shields.io/badge/HTML5-GameDev-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Lightweight-003B57?style=flat-square&logo=sqlite&logoColor=white)
+Bangkok, Thailand 🇹🇭 | Remote-only | Async-first | USDT accepted
 
 ---
 
-## 💼 Services & Expertise
+## ⚙️ DevOps & Infrastructure
 
-I provide **complex business digitalization** for those who need results, not just code.
+![Linux](https://img.shields.io/badge/Linux-Expert-black?logo=linux)
+![Debian](https://img.shields.io/badge/Debian-informational?logo=debian)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?logo=ubuntu)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-informational?logo=freebsd)
+![Docker](https://img.shields.io/badge/Docker-containers-blue?logo=docker)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-CD-orange?logo=gitlab)
+![Nginx](https://img.shields.io/badge/Nginx-High_Performance-green?logo=nginx)
+![Bash](https://img.shields.io/badge/Bash-Shell_Scripting-black?logo=gnubash)
 
-*   **🚀 Digital Transformation:** Turning chaotic business processes into automated, self-sustaining digital systems.
-*   **🤖 AI Integration:** Custom LLM agents, neural networks, and automated workflows.
-*   **🔧 DevOps Consulting:** Building declarative, unbreaking infrastructure.
-*   **🕹️ Interactive Dev:** HTML5 games and engaging Telegram bots.
+## ☁️ Cloud & Networking
 
-> Open for interesting projects and consulting.
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-cloud-0080FF?logo=digitalocean)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS_WAF-F38020?logo=cloudflare)
+![Selectel](https://img.shields.io/badge/Selectel-cloud-blue)
+![Mikrotik](https://img.shields.io/badge/Mikrotik-networking-informational)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-VPN-orange?logo=openvpn)
+![WireGuard](https://img.shields.io/badge/WireGuard-VPN-red?logo=wireguard)
+
+## 🤖 AI & Automation
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![LLMOps](https://img.shields.io/badge/LLMOps-AI_Engineering-purple)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-black)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-412991?logo=openai)
+![Agents](https://img.shields.io/badge/AI_Agents-Orchestration-blueviolet)
+![Telegram](https://img.shields.io/badge/Telegram-Bot_API-26A5E4?logo=telegram)
+
+## 📡 Monitoring & Security
+
+![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-red)
+![IPtables](https://img.shields.io/badge/IPtables-Firewall-black)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-Security-orange)
+![SSL](https://img.shields.io/badge/SSL/TLS-ACME-green)
+
+---
+
+## 🚀 Services & Expertise
+
+I deliver **complex infrastructure solutions** for those who need results, not excuses.
+
+- 🔧 **Infrastructure as Code:** Stable, self-managing server environments built to run without babysitting
+- 🤖 **AI-Augmented Engineering:** LLM orchestration that replaces entire dev workflows
+- 🔒 **SecOps:** Real-world DDoS mitigation, hardening, post-incident forensics
+- 📬 **Mail Infrastructure:** Postfix + Dovecot clusters for 500+ users, zero downtime
+- ⚡ **DevOps Consulting:** GitLab CI/CD from scratch, containerization, monitoring
+
+> Open for async remote contracts and retainer engagements.
+
+---
+
+## 🔭 Active Project
+
+**[piniq.ai](https://piniq.ai)** — AI-powered infrastructure monitor with LLM-based anomaly analysis
 
 ---
 
 ## 📡 Signal / Contact
 
-*   **Telegram:** [@cha0skvlt](https://t.me/cha0skvlt)
-*   **Website:** [cha0sklvt.xyz](https://cha0skvlt.xyz/) — *Check out my HTML5 Artifact game*
-*   **GitHub:** [github.com/cha0skvlt](https://github.com/cha0skvlt)
+- 🌐 Website: [cha0skvlt.xyz](https://cha0skvlt.xyz)
+- 💬 Telegram: [@cha0skvlt](https://t.me/cha0skvlt)
+- 🐙 GitHub: [github.com/cha0skvlt](https://github.com/cha0skvlt)
 
