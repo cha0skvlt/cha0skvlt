@@ -2,8 +2,6 @@
 
 > *Ordo ab Cha0s* — 15 years turning infrastructure chaos into self-sustaining systems.
 
-Bangkok, Thailand 🇹🇭 | Remote-only | Async-first | USDT accepted
-
 ---
 
 ## ⚙️ DevOps & Infrastructure
