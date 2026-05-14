@@ -14,6 +14,7 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-CD-orange?logo=gitlab)
 ![Nginx](https://img.shields.io/badge/Nginx-High_Performance-green?logo=nginx)
 ![Bash](https://img.shields.io/badge/Bash-Shell_Scripting-black?logo=gnubash)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 
 ## ☁️ Cloud & Networking
 
@@ -26,7 +27,6 @@
 
 ## 🤖 AI & Automation
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![LLMOps](https://img.shields.io/badge/LLMOps-AI_Engineering-purple)
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-412991?logo=openai)
