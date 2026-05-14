@@ -42,31 +42,17 @@
 ![IPtables](https://img.shields.io/badge/IPtables-555555?logoColor=white)
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-F38020?logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-00CC00?logoColor=white)
----
-
-## 🚀 Services & Expertise
-
-I deliver **complex infrastructure solutions** for those who need results, not excuses.
-
-- 🔧 **Infrastructure as Code:** Stable, self-managing server environments built to run without babysitting
-- 🤖 **AI-Augmented Engineering:** LLM orchestration that replaces entire dev workflows
-- 🔒 **SecOps:** Real-world DDoS mitigation, hardening, post-incident forensics
-- 📬 **Mail Infrastructure:** Postfix + Dovecot clusters for 500+ users, zero downtime
-- ⚡ **DevOps Consulting:** GitLab CI/CD from scratch, containerization, monitoring
-
-> Open for async remote contracts and retainer engagements.
 
 ---
 
-## 🔭 Active Project
+## ⚙️ What I do
 
-**[piniq.ai](https://piniq.ai)** — AI-powered infrastructure monitor with LLM-based anomaly analysis
+Infrastructure that runs itself. Server environments, CI/CD pipelines, containerization, monitoring — built once, maintained never. DDoS mitigation, hardening, post-incident forensics. Mail clusters for 500+ users.
+
+Currently: autonomous multi-agent AI systems on local hardware. LLM orchestration, vector memory, knowledge graphs, real-time routing between models. No cloud dependency, no API costs, full control.
+
+Available for remote async contracts.
 
 ---
 
-## 📡 Signal / Contact
-
-- 🌐 Website: [cha0skvlt.xyz](https://cha0skvlt.xyz)
-- 💬 Telegram: [@cha0skvlt](https://t.me/cha0skvlt)
-- 🐙 GitHub: [github.com/cha0skvlt](https://github.com/cha0skvlt)
-
+💬 Telegram: [@cha0skvlt](https://t.me/cha0skvlt)
