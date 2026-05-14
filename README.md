@@ -5,7 +5,6 @@
 ---
 
 ## ⚙️ DevOps & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-Expert-black?logo=linux)
 ![Debian](https://img.shields.io/badge/Debian-informational?logo=debian)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-informational?logo=ubuntu)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-informational?logo=freebsd)
