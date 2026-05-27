@@ -1,4 +1,4 @@
-# 💀 Senior DevOps & AI Engineer
+# AI Infrastructure Engineer & DevOps
 
 > *Ordo ab Cha0s* — 15 years turning infrastructure chaos into self-sustaining systems.
 
