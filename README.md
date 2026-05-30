@@ -1,6 +1,8 @@
 # Lead AI Infrastructure Engineer
 
-![CHA0SKVLT](c4logo.png)
+<p align="center">
+  <img src="c4logo.png" alt="CHA0SKVLT" height="40">
+</p>
 
 > *Ordo ab Cha0s* — 15 years turning infrastructure chaos into self-sustaining systems.
 
