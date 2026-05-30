@@ -1,4 +1,8 @@
-# AI Infrastructure Engineer & DevOps
+# Lead AI Infrastructure Engineer
+
+<p align="center">
+  <img src="c4logo.png" alt="CHA0SKVLT" />
+</p>
 
 > *Ordo ab Cha0s* — 15 years turning infrastructure chaos into self-sustaining systems.
 
@@ -10,6 +14,8 @@
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
@@ -39,6 +45,7 @@
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?logo=grafana&logoColor=white)
 ![IPtables](https://img.shields.io/badge/IPtables-555555?logoColor=white)
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-F38020?logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-00CC00?logoColor=white)
