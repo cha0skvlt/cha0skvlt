@@ -1,4 +1,4 @@
-# Lead AI Infrastructure Engineer
+# Lead Infrastructure Engineer
 
 > *Ordo ab Cha0s* — 15 years turning infrastructure chaos into self-sustaining systems.
 
