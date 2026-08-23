@@ -1,4 +1,4 @@
-# Lead Infrastructure Engineer & CEO piniq.ai
+# Infrastructure Engineer & CEO piniq.ai
 
 > *Ordo ab Cha0s* — 15 years turning infrastructure chaos into self-sustaining systems.
 
