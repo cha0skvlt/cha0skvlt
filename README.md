@@ -9,7 +9,7 @@
 ![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=black)
 
 
-## DevOps & Infrastructure
+## Infrastructure
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white)
@@ -21,7 +21,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
 
-## Cloud & Networking
+## Networking
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Selectel](https://img.shields.io/badge/Selectel-0055FF?logoColor=white)
@@ -37,7 +37,7 @@
 ![Knowledge_Graph](https://img.shields.io/badge/Knowledge_Graph-5A0FC8?logoColor=white)
 
 
-## Monitoring & Security
+## Monitoring / Security
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
@@ -45,16 +45,6 @@
 ![IPtables](https://img.shields.io/badge/IPtables-555555?logoColor=white)
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-F38020?logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-00CC00?logoColor=white)
-
----
-
-## What I do
-
-Infrastructure that runs itself. Server environments, CI/CD pipelines, containerization, monitoring — built once, maintained never. DDoS mitigation, hardening, post-incident forensics. Mail clusters for 500+ users.
-
-Currently: autonomous multi-agent AI systems on local hardware. LLM orchestration, vector memory, knowledge graphs, real-time routing between models. No cloud dependency, no API costs, full control.
-
-Available for remote async contracts.
 
 ---
 
