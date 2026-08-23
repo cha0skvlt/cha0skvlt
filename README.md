@@ -30,7 +30,7 @@
 
 ## AI Engineering
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-000000?logo=apple&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?logo=llama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-7C3AED?logo=lightning&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
