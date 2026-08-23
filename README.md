@@ -7,6 +7,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Mojo](https://img.shields.io/badge/Mojo-FF4500?logo=lightning&logoColor=white)
 
 
 ## Infrastructure
