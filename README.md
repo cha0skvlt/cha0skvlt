@@ -98,6 +98,3 @@ AI-native product engineer: production infrastructure, agentic systems, RAG, loc
 ![Selectel](https://img.shields.io/badge/Selectel-0055FF?logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?logo=telegram&logoColor=white)
 
----
-
-💬 Telegram: [@cha0skvlt](https://t.me/cha0skvlt)
