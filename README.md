@@ -44,15 +44,14 @@ AI-native product engineer: production infrastructure, agentic systems, RAG, loc
 ![Red Team Agents](https://img.shields.io/badge/Red_Team_Agents-B22222?logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-7C3AED?logoColor=white)
-![ACP](https://img.shields.io/badge/ACP-7C3AED?logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-5A0FC8?logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-5A0FC8?logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-5A0FC8?logoColor=white)
 ![Knowledge Graph](https://img.shields.io/badge/Knowledge_Graph-5A0FC8?logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-5A0FC8?logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-615CED?logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-7C3AED?logo=lightning&logoColor=white)
 ![MLX](https://img.shields.io/badge/MLX-000000?logo=apple&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-000000?logo=apple&logoColor=white)
 
 ## 🏗️ Infrastructure as Code & Containers
