@@ -9,7 +9,7 @@ AI-native product engineer: production infrastructure, agentic systems, RAG, loc
 
 ---
 
-## 💻 Languages
+## Languages
 ![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@ AI-native product engineer: production infrastructure, agentic systems, RAG, loc
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
-## 🧩 Frameworks & Apps
+## Frameworks & Apps
 ![GPUI](https://img.shields.io/badge/GPUI-084CCF?logoColor=white)
 ![CEF](https://img.shields.io/badge/CEF-2C2C2C?logo=googlechrome&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -27,20 +27,20 @@ AI-native product engineer: production infrastructure, agentic systems, RAG, loc
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white)
 ![JSON Schema](https://img.shields.io/badge/JSON_Schema-000000?logo=json&logoColor=white)
 
-## 🐧 Operating Systems
+## Operating Systems
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 
-## 🗄️ Databases
+## Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-## 🤖 AI Engineering
+## AI Engineering
 ![Red Team Agents](https://img.shields.io/badge/Red_Team_Agents-B22222?logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-7C3AED?logoColor=white)
@@ -54,33 +54,33 @@ AI-native product engineer: production infrastructure, agentic systems, RAG, loc
 ![MLX](https://img.shields.io/badge/MLX-000000?logo=apple&logoColor=white)
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-000000?logo=apple&logoColor=white)
 
-## 🏗️ Infrastructure as Code & Containers
+## Infrastructure as Code & Containers
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=white)
 
-## 🚀 CI/CD & Delivery
+## CI/CD & Delivery
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
 
-## 🌐 Web Servers, Proxies & Mail
+## Web Servers, Proxies & Mail
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white)
 ![Postfix](https://img.shields.io/badge/Postfix-D14836?logo=minutemailer&logoColor=white)
 ![Dovecot](https://img.shields.io/badge/Dovecot-2C5CA8?logo=maildotru&logoColor=white)
 
-## 📊 Monitoring & Observability
+## Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?logo=grafana&logoColor=white)
 ![Alloy](https://img.shields.io/badge/Alloy-F46800?logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?logoColor=white)
 
-## 🔐 Security
+## Security
 ![Pentesting](https://img.shields.io/badge/Penetration_Testing-B22222?logo=hackthebox&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?logoColor=white)
