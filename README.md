@@ -41,6 +41,7 @@ AI-native product engineer: production infrastructure, agentic systems, RAG, loc
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 ## 🤖 AI Engineering
+![Red Team Agents](https://img.shields.io/badge/Red_Team_Agents-B22222?logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-7C3AED?logoColor=white)
 ![ACP](https://img.shields.io/badge/ACP-7C3AED?logoColor=white)
@@ -81,7 +82,11 @@ AI-native product engineer: production infrastructure, agentic systems, RAG, loc
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?logoColor=white)
 
 ## 🔐 Security
+![Pentesting](https://img.shields.io/badge/Penetration_Testing-B22222?logo=hackthebox&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=white)
 ![IPtables](https://img.shields.io/badge/IPtables-555555?logoColor=white)
 ![Fail2ban](https://img.shields.io/badge/Fail2ban-F38020?logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-00CC00?logoColor=white)
