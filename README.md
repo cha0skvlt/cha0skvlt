@@ -5,7 +5,7 @@
 ---
 
 AI-native product engineer: production infrastructure, agentic systems, RAG, local inference.  
-Open to B2B & high-leverage engineering roles.
+Open to B2B & high-leverage engineering roles.  
 🌐 [piniq.ai](https://piniq.ai) · 💬 [@cha0skvlt](https://t.me/cha0skvlt) · ✉️ [cha0skvlt@gmail.com](mailto:cha0skvlt@gmail.com)
 
 ---
