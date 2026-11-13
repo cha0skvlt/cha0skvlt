@@ -28,8 +28,6 @@ Open to B2B & high-leverage engineering roles.
 ![JSON Schema](https://img.shields.io/badge/JSON_Schema-000000?logo=json&logoColor=white)
 
 ## Operating Systems
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
