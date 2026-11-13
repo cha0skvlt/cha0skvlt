@@ -91,7 +91,7 @@ Open to B2B & high-leverage engineering roles.
 ![Sandboxing](https://img.shields.io/badge/Sandboxing-444444?logoColor=white)
 
 ## Networking & Cloud
-![MikroTik](https://img.shields.io/badge/MikroTik_MTCNA-293239?logo=mikrotik&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?logo=mikrotik&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
 ![Selectel](https://img.shields.io/badge/Selectel-0055FF?logoColor=white)
