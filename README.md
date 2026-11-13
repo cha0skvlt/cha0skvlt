@@ -1,4 +1,4 @@
-# Infrastructure & AI Engineer · Founder of piniq.ai
+ # Infrastructure & AI Engineer · Founder of piniq.ai
 
 > *Ordo ab Cha0s* — 15 years turning infrastructure chaos into self-sustaining systems.
 
@@ -13,7 +13,6 @@ Open to B2B & high-leverage engineering roles.
 ## Languages
 ![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
