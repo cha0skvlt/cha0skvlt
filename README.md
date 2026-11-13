@@ -25,7 +25,7 @@ Open to B2B & high-leverage engineering roles.
 ## Frameworks & Apps
 ![GPUI](https://img.shields.io/badge/GPUI-084CCF?logoColor=white)
 ![CEF](https://img.shields.io/badge/CEF-2C2C2C?logo=googlechrome&logoColor=white)
-[![SearXNG](https://shields.io+)](https://github.com/searxng/searxng)
+[![SearXNG](https://shields.io)](https://github.com/searxng/searxng)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
