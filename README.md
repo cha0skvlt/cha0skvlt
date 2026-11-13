@@ -22,6 +22,12 @@ Open to B2B & high-leverage engineering roles.
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 
+## Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
 ## Frameworks & Apps
 ![GPUI](https://img.shields.io/badge/GPUI-084CCF?logoColor=white)
 ![CEF](https://img.shields.io/badge/CEF-2C2C2C?logo=googlechrome&logoColor=white)
@@ -32,12 +38,6 @@ Open to B2B & high-leverage engineering roles.
 ![REST](https://img.shields.io/badge/REST_API-0A7E8C?logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white)
 ![JSON Schema](https://img.shields.io/badge/JSON_Schema-000000?logo=json&logoColor=white)
-
-## Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 ## AI Engineering
 ![Red Team Agents](https://img.shields.io/badge/Red_Team_Agents-B22222?logoColor=white)
