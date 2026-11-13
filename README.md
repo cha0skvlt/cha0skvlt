@@ -1,4 +1,4 @@
- # Product & Infrastructure Engineer · Founder of piniq.ai
+ # AI Infrastructure Engineer · Founder of piniq.ai
 
 > *Ordo ab Cha0s* — 15 years turning infrastructure chaos into self-sustaining systems.
 
