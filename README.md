@@ -1,6 +1,22 @@
- # AI-Native Product Engineer  · Founder of piniq.ai
+# AI-Native Product Engineer  · Founder of piniq.ai
 
 > *Ordo ab Cha0s* — 15 years turning infrastructure chaos into self-sustaining systems.
+
+---
+
+## Products
+
+### CHA0S AOE — Agentic Operations Environment
+A desktop environment where agents operate the machine alongside the operator: shell, files, browser, databases, settings, logs. 177-crate Rust workspace, GPUI + Metal, 26 agent tools, 12 LLM providers, local and API models.
+**[Download for macOS](https://github.com/cha0skvlt/CHA0S_AOE/releases/latest)** · [Repository](https://github.com/cha0skvlt/CHA0S_AOE) · [piniq.ai/cha0s](https://piniq.ai/cha0s)
+
+### phylactery-mcp — memory for agents
+A Rust MCP server that turns a Postgres database into memory: 768d vectors, a typed knowledge graph, 23 tools, 90 tests.
+[Repository](https://github.com/cha0skvlt/phylactery-mcp)
+
+### avatar-media-mcp — generative media over MCP
+Identity, face swap, voice, frames and assembly for avatar-driven video. 9,092 lines of Rust, 114 tests.
+[Repository](https://github.com/cha0skvlt/avatar-media-mcp)
 
 ---
 
