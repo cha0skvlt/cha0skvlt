@@ -6,25 +6,21 @@
 
 ## Products
 
-### CHA0S AOE — Agentic Operations Environment
+### [CHA0S AOE — Agentic Operations Environment](https://github.com/cha0skvlt/CHA0S_AOE)
 A desktop environment where agents operate the machine alongside the operator: shell, files, browser, databases, settings, logs. 177-crate Rust workspace, GPUI + Metal, 26 agent tools, 12 LLM providers, local and API models.
-**[Download for macOS](https://github.com/cha0skvlt/CHA0S_AOE/releases/latest)** · [Repository](https://github.com/cha0skvlt/CHA0S_AOE) · [piniq.ai/cha0s](https://piniq.ai/cha0s)
+**[Download for macOS](https://github.com/cha0skvlt/CHA0S_AOE/releases/latest)** · [piniq.ai/cha0s](https://piniq.ai/cha0s)
 
-### phylactery-mcp — memory for agents
+### [phylactery-mcp — memory for agents](https://github.com/cha0skvlt/phylactery-mcp)
 A Rust MCP server that turns a Postgres database into memory: 768d vectors, a typed knowledge graph, 23 tools.
-[Repository](https://github.com/cha0skvlt/phylactery-mcp)
 
-### avatar-media-mcp — generative media over MCP
+### [avatar-media-mcp — generative media over MCP](https://github.com/cha0skvlt/avatar-media-mcp)
 Identity, face swap, voice, frames and assembly for avatar-driven video. 9,092 lines of Rust.
-[Repository](https://github.com/cha0skvlt/avatar-media-mcp)
 
-### single-vm-mail-platform — mail platform as code
+### [single-vm-mail-platform — mail platform as code](https://github.com/cha0skvlt/single-vm-mail-platform)
 Postfix, Dovecot and OpenDKIM on one VM, sized for 500+ mailboxes and 25,000 messages/day on 4 vCPU / 8 GB. Terraform + Ansible, 114 unit tests, full observability.
-[Repository](https://github.com/cha0skvlt/single-vm-mail-platform)
 
-### single-vm-web-platform — multi-tenant edge as code
+### [single-vm-web-platform — multi-tenant edge as code](https://github.com/cha0skvlt/single-vm-web-platform)
 Traefik v3, per-FQDN Compose stacks, shared MySQL, operator plane with forwardAuth. Rebuilds from an empty cloud project with `make bootstrap`.
-[Repository](https://github.com/cha0skvlt/single-vm-web-platform)
 
 ---
 
