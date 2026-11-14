@@ -24,7 +24,7 @@ Traefik v3, per-FQDN Compose stacks, shared MySQL, operator plane with forwardAu
 
 ---
 
-Open to B2B & high-leverage engineering roles.  
+## Open to B2B & high-leverage engineering roles.  
 
 🌐 [piniq.ai](https://piniq.ai) · 💬 [@cha0skvlt](https://t.me/cha0skvlt) · ✉️ [cha0skvlt@gmail.com](mailto:cha0skvlt@gmail.com)
 
