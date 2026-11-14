@@ -18,6 +18,14 @@ A Rust MCP server that turns a Postgres database into memory: 768d vectors, a ty
 Identity, face swap, voice, frames and assembly for avatar-driven video. 9,092 lines of Rust, 114 tests.
 [Repository](https://github.com/cha0skvlt/avatar-media-mcp)
 
+### single-vm-mail-platform — mail platform as code
+Postfix, Dovecot and OpenDKIM on one VM, sized for 500+ mailboxes and 25,000 messages/day on 4 vCPU / 8 GB. Terraform + Ansible, 114 unit tests, full observability.
+[Repository](https://github.com/cha0skvlt/single-vm-mail-platform)
+
+### single-vm-web-platform — multi-tenant edge as code
+Traefik v3, per-FQDN Compose stacks, shared MySQL, operator plane with forwardAuth. Rebuilds from an empty cloud project with `make bootstrap`.
+[Repository](https://github.com/cha0skvlt/single-vm-web-platform)
+
 ---
 
 Open to B2B & high-leverage engineering roles.  
