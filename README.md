@@ -6,20 +6,20 @@
 
 ## Products
 
-### [CHA0S AOE — Agentic Operations Environment](https://github.com/cha0skvlt/CHA0S_AOE)
+### [CHA0S AOE](https://github.com/cha0skvlt/CHA0S_AOE) — Agentic Operations Environment
 A desktop environment where agents operate the machine alongside the operator: shell, files, browser, databases, settings, logs. 177-crate Rust workspace, GPUI + Metal, 26 agent tools, 12 LLM providers, local and API models.
 **[Download for macOS](https://github.com/cha0skvlt/CHA0S_AOE/releases/latest)** · [piniq.ai/cha0s](https://piniq.ai/cha0s)
 
-### [phylactery-mcp — memory for agents](https://github.com/cha0skvlt/phylactery-mcp)
+### [phylactery-mcp](https://github.com/cha0skvlt/phylactery-mcp) — memory for agents
 A Rust MCP server that turns a Postgres database into memory: 768d vectors, a typed knowledge graph, 23 tools.
 
-### [avatar-media-mcp — generative media over MCP](https://github.com/cha0skvlt/avatar-media-mcp)
+### [avatar-media-mcp](https://github.com/cha0skvlt/avatar-media-mcp) — generative media over MCP
 Identity, face swap, voice, frames and assembly for avatar-driven video. 9,092 lines of Rust.
 
-### [single-vm-mail-platform — mail platform as code](https://github.com/cha0skvlt/single-vm-mail-platform)
+### [single-vm-mail-platform](https://github.com/cha0skvlt/single-vm-mail-platform) — mail platform as code
 Postfix, Dovecot and OpenDKIM on one VM, sized for 500+ mailboxes and 25,000 messages/day on 4 vCPU / 8 GB. Terraform + Ansible, 114 unit tests, full observability.
 
-### [single-vm-web-platform — multi-tenant edge as code](https://github.com/cha0skvlt/single-vm-web-platform)
+### [single-vm-web-platform](https://github.com/cha0skvlt/single-vm-web-platform) — multi-tenant edge as code
 Traefik v3, per-FQDN Compose stacks, shared MySQL, operator plane with forwardAuth. Rebuilds from an empty cloud project with `make bootstrap`.
 
 ---
