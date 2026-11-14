@@ -11,11 +11,11 @@ A desktop environment where agents operate the machine alongside the operator: s
 **[Download for macOS](https://github.com/cha0skvlt/CHA0S_AOE/releases/latest)** · [Repository](https://github.com/cha0skvlt/CHA0S_AOE) · [piniq.ai/cha0s](https://piniq.ai/cha0s)
 
 ### phylactery-mcp — memory for agents
-A Rust MCP server that turns a Postgres database into memory: 768d vectors, a typed knowledge graph, 23 tools, 90 tests.
+A Rust MCP server that turns a Postgres database into memory: 768d vectors, a typed knowledge graph, 23 tools.
 [Repository](https://github.com/cha0skvlt/phylactery-mcp)
 
 ### avatar-media-mcp — generative media over MCP
-Identity, face swap, voice, frames and assembly for avatar-driven video. 9,092 lines of Rust, 114 tests.
+Identity, face swap, voice, frames and assembly for avatar-driven video. 9,092 lines of Rust.
 [Repository](https://github.com/cha0skvlt/avatar-media-mcp)
 
 ### single-vm-mail-platform — mail platform as code
