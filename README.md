@@ -12,12 +12,11 @@ piniq.ai
 ├── Agentic Systems
 │   │
 │   ├── <a href="https://github.com/cha0skvlt/CHA0S_AOE">CHA0S AOE</a> · Agentic Operations Environment
-│   │   ├── Flagship product · Desktop agentic environment
-│   │   ├── 177-crate Rust workspace · GPUI + Metal
-│   │   ├── 26 agent tools · 12 LLM providers
-│   │   ├── Local and API models
-│   │   ├── <a href="https://github.com/cha0skvlt/CHA0S_AOE/releases/latest">Download for macOS</a>
-│   │   ├── <a href="https://piniq.ai/cha0s">Website</a>
+│   │   │  └── 177-crate Rust workspace · GPUI + Metal
+│   │   │      26 agent tools · 12 LLM providers
+│   │   │      Local and API models
+│   │   │      <a href="https://github.com/cha0skvlt/CHA0S_AOE/releases/latest">Download for macOS</a>
+│   │   │      <a href="https://piniq.ai/cha0s">Website</a>
 │   │   │
 │   │   └── MCP Ecosystem
 │   │       ├── <a href="https://github.com/cha0skvlt/phylactery-mcp">phylactery-mcp</a>
