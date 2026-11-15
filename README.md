@@ -6,21 +6,49 @@
 
 ## Products
 
-### [CHA0S AOE](https://github.com/cha0skvlt/CHA0S_AOE) — Agentic Operations Environment
-A desktop environment where agents operate the machine alongside the operator: shell, files, browser, databases, settings, logs. 177-crate Rust workspace, GPUI + Metal, 26 agent tools, 12 LLM providers, local and API models.
-**[Download for macOS](https://github.com/cha0skvlt/CHA0S_AOE/releases/latest)** · [piniq.ai/cha0s](https://piniq.ai/cha0s)
-
-### [phylactery-mcp](https://github.com/cha0skvlt/phylactery-mcp) — memory for agents
-A Rust MCP server that turns a Postgres database into memory: 768d vectors, a typed knowledge graph, 30 tools.
-
-### [avatar-media-mcp](https://github.com/cha0skvlt/avatar-media-mcp) — generative media server — WIP 🚧
-Identity, face swap, voice, frames and assembly for avatar-driven video. 9,092 lines of Rust.
-
-### [single-vm-mail-platform](https://github.com/cha0skvlt/single-vm-mail-platform) — mail platform as code
-Postfix, Dovecot and OpenDKIM on one VM, sized for 500+ mailboxes and 25,000 messages/day on 4 vCPU / 8 GB. Terraform + Ansible, 114 unit tests, full observability.
-
-### [single-vm-web-platform](https://github.com/cha0skvlt/single-vm-web-platform) — multi-tenant edge as code
-Traefik v3, per-FQDN Compose stacks, shared MySQL, operator plane with forwardAuth. Rebuilds from an empty cloud project with `make bootstrap`.
+<pre>
+piniq.ai
+│
+├── Agentic Systems
+│   │
+│   ├── <a href="https://github.com/cha0skvlt/CHA0S_AOE">CHA0S AOE</a> · Agentic Operations Environment
+│   │   ├── Flagship product · Desktop agentic environment
+│   │   ├── 177-crate Rust workspace · GPUI + Metal
+│   │   ├── 26 agent tools · 12 LLM providers
+│   │   ├── Local and API models
+│   │   ├── <a href="https://github.com/cha0skvlt/CHA0S_AOE/releases/latest">Download for macOS</a>
+│   │   ├── <a href="https://piniq.ai/cha0s">Website</a>
+│   │   │
+│   │   └── MCP Ecosystem
+│   │       ├── <a href="https://github.com/cha0skvlt/phylactery-mcp">phylactery-mcp</a>
+│   │       │   └── Agent memory · PostgreSQL · 768d vectors
+│   │       │       Typed knowledge graph · 30 MCP tools
+│   │       │
+│   │       └── <a href="https://github.com/cha0skvlt/avatar-media-mcp">avatar-media-mcp</a> · WIP
+│   │           └── Generative media · Identity · Face swap
+│   │               Voice · Frames · Video assembly
+│   │               9,092 lines of Rust
+│   │
+│   └── R&D
+│       └── <a href="https://github.com/cha0skvlt/persistent-agent">persistent-agent</a>
+│           └── Persistent local-first agent
+│               LangGraph · pgvector · CLI · Telegram
+│               Memory that survives the model
+│
+└── Infrastructure Platforms
+    │
+    ├── <a href="https://github.com/cha0skvlt/single-vm-mail-platform">single-vm-mail-platform</a>
+    │   └── Mail platform as code · Postfix · Dovecot · OpenDKIM
+    │       500+ mailboxes · 25,000 messages/day
+    │       Terraform · Ansible · 114 unit tests
+    │       Full observability · 4 vCPU / 8 GB
+    │
+    └── <a href="https://github.com/cha0skvlt/single-vm-web-platform">single-vm-web-platform</a>
+        └── Multi-tenant edge as code
+            Traefik v3 · Per-FQDN Compose stacks · Shared MySQL
+            Operator plane · forwardAuth
+            Reproducible deployment · make bootstrap
+</pre>
 
 ---
 
