@@ -13,7 +13,7 @@ A desktop environment where agents operate the machine alongside the operator: s
 ### [phylactery-mcp](https://github.com/cha0skvlt/phylactery-mcp) — memory for agents
 A Rust MCP server that turns a Postgres database into memory: 768d vectors, a typed knowledge graph, 30 tools.
 
-### [avatar-media-mcp](https://github.com/cha0skvlt/avatar-media-mcp) — generative media over MCP
+### [avatar-media-mcp](https://github.com/cha0skvlt/avatar-media-mcp) — generative media server  🚧WIP🚧
 Identity, face swap, voice, frames and assembly for avatar-driven video. 9,092 lines of Rust.
 
 ### [single-vm-mail-platform](https://github.com/cha0skvlt/single-vm-mail-platform) — mail platform as code
