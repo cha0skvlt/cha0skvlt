@@ -11,8 +11,9 @@ piniq.ai
 │
 ├── Agentic Systems
 │   │
-│   ├── <a href="https://github.com/cha0skvlt/CHA0S_AOE">CHA0S AOE</a> · Agentic Operations Environment
-│   │   │  └── 177-crate Rust workspace · GPUI + Metal
+│   ├── <a href="https://github.com/cha0skvlt/CHA0S_AOE">CHA0S AOE</a> 
+│   │   │  └── Agentic Operations Environment
+│   │   │      177-crate Rust workspace · GPUI + Metal
 │   │   │      26 agent tools · 12 LLM providers
 │   │   │      Local and API models
 │   │   │      <a href="https://github.com/cha0skvlt/CHA0S_AOE/releases/latest">Download for macOS</a>
