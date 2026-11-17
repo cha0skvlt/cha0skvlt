@@ -54,7 +54,7 @@ piniq.ai
 
 ## Open to B2B & high-leverage engineering roles.  
 
-🌐 [piniq.ai](https://piniq.ai) · 💬 [@cha0skvlt](https://t.me/cha0skvlt) · ✉️ [cha0skvlt@gmail.com](mailto:cha0skvlt@gmail.com)
+🌐 [piniq.ai](https://piniq.ai) · 💬 [@cha0skvlt](https://t.me/cha0skvlt) · ✉️ [egrossbart@gmail.com](mailto:egrossbart@gmail.com)
 
 ---
 
