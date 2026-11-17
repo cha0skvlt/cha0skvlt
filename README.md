@@ -1,5 +1,3 @@
-# AI-Native Product Engineer  · Founder of piniq.ai
-
 > *Ordo ab Cha0s* — 15 years turning infrastructure chaos into self-sustaining systems.
 
 ---
