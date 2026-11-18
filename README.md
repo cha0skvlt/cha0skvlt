@@ -30,7 +30,6 @@ piniq.ai
 │   │           └── Media engine · Fetch · Trim · Convert · Join
 │   │               yt-dlp · ffmpeg-next · EBU R128
 │   │             
-│   │
 │   └── R&D
 │       └── <a href="https://github.com/cha0skvlt/persistent-agent">persistent-agent</a>
 │           └── Persistent local-first agent
