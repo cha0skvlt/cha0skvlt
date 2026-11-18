@@ -25,12 +25,11 @@ piniq.ai
 │   │       ├── <a href="https://github.com/cha0skvlt/avatar-media-mcp">avatar-media-mcp</a> · WIP
 │   │       │   └── Generative media · Identity · Face swap
 │   │       │       Voice · Frames · Video assembly
-│   │       │       9,092 lines of Rust
 │   │       │
 │   │       └── <a href="https://github.com/cha0skvlt/downloader-mcp">downloader-mcp</a>
 │   │           └── Media engine · Fetch · Trim · Convert · Join
 │   │               yt-dlp · ffmpeg-next · EBU R128
-│   │               5,025 lines of Rust
+│   │             
 │   │
 │   └── R&D
 │       └── <a href="https://github.com/cha0skvlt/persistent-agent">persistent-agent</a>
